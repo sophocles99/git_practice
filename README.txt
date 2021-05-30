@@ -1,4 +1,4 @@
-Hello Git and Github
-... and go on then, Hello World
+###Hello Git and Github
+##... and go on then, Hello World
 
-Actually, why stop there? Hello Galaxy!
+#Actually, why stop there? Hello Galaxy!
